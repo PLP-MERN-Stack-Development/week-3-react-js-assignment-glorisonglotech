@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Button from './Button';
+import { Button } from './ui/button';
 
 /**
  * Custom hook for managing tasks with localStorage persistence
